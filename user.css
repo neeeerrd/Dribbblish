@@ -322,6 +322,9 @@ li > div::after {
 .main-trackList-trackListHeader {
     background-color: var(--spice-main) !important;
 }
+.main-entityHeader-topbarTitle {
+    padding-left: 5px;
+}
 /* fix play button icon colour */
 .main-playButton-PlayButton svg {
     color: var(--spice-main);
