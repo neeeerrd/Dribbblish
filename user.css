@@ -133,7 +133,7 @@ body {
     border-radius: 4px;
     text-align: center;
     color: var(--spice-text);
-    background-color: var(--spice-button);
+    background-color: var(--spice-sidebar);
     opacity: 0;
     transition: opacity 0.2s linear, left 0.2s linear;
 }
@@ -154,7 +154,7 @@ body {
 .main-repeatButton-button,
 .main-skipBackButton-button,
 .main-shuffleButton-button {
-    color: var(--spice-text);
+    color: var(--spice-subtext);
 }
 .player-controls__left,
 .player-controls__right {
@@ -179,10 +179,10 @@ body {
 
 /* customise right side player buttons */
 .control-button {
-    color: var(--spice-text);
+    color: var(--spice-subtext);
 }
 .main-genericButton-button {
-    color: var(--spice-text);
+    color: var(--spice-subtext);
 }
 
 /* customise player cover art */
