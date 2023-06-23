@@ -51,7 +51,7 @@ body {
 }
 
 .Root__now-playing-bar {
-    background-color: var(--spice-player);
+    background-color: var(--spice-player-true);
     border-radius: 0 0 var(--corner-radius) var(--corner-radius) !important;
 }
 
